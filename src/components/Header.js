@@ -137,6 +137,7 @@ const Header = () => {
             ))}
           </nav>
           
+          
           {/* Divider line for structure */}
           <div className={`w-full h-[1px] bg-neutral-100 my-12 transition-opacity duration-700 delay-500 ${isMenuOpen ? 'opacity-100' : 'opacity-0'}`} />
 
